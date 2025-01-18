@@ -1,7 +1,7 @@
 const { Client, Account, Databases, ID, Query } = Appwrite
-const projectId = ''
-const databaseId = ''
-const collectionId= ''
+const projectId = '678579640028521a31f5'
+const databaseId = '6786ca86001860b69a87'
+const collectionId= '6786caa3001eccde4c88'
 
 const client = new Client()
     .setEndpoint('https://cloud.appwrite.io/v1')
